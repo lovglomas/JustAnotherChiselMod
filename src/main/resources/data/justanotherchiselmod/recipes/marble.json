@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "forge:marble_variants"
+  },
+  "result": "justanotherchiselmod:marble_array",
+  "count": 1
+}

@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "justanotherchiselmod:lab_block"
+	},
+	"result": "justanotherchiselmod:lab_console",
+	"count": 1
+}

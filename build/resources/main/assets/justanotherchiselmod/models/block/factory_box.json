@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cube_column",
+	"textures": {
+		"end": "justanotherchiselmod:block/factory/metalbox-top",
+		"side": "justanotherchiselmod:block/factory/metalbox-side"
+	}
+}

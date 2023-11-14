@@ -1,0 +1,8 @@
+{
+  "ctm": {
+    "ctm_version": 1,"type": "ctm",
+    "textures": [
+      "justanotherchiselmod:block/factory/column-top"
+      ]
+  }
+}

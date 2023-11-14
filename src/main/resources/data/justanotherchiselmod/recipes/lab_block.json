@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "SiS",
+    "SSS"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:quartz"
+    },
+    "S": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "justanotherchiselmod:lab_block",
+    "count": 32
+  }
+}

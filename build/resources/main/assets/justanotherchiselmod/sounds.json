@@ -1,0 +1,68 @@
+{
+  "factory_block_break": {
+    "subtitle": "sound.justanotherchiselmod.metal_sound",
+    "sounds": [
+      "justanotherchiselmod:metal",
+      "justanotherchiselmod:metal1",
+      "justanotherchiselmod:metal2",
+      "justanotherchiselmod:metal3",
+      "justanotherchiselmod:metal4",
+      "justanotherchiselmod:metal5",
+      "justanotherchiselmod:metal6",
+      "justanotherchiselmod:metal7",
+      "justanotherchiselmod:metal8",
+      "justanotherchiselmod:metal9"
+    ]
+  },
+  "factory_block_step": {
+    "subtitle": "sound.justanotherchiselmod.metal_sound",
+    "sounds": [
+      "justanotherchiselmod:metal",
+      "justanotherchiselmod:metal1",
+      "justanotherchiselmod:metal2",
+      "justanotherchiselmod:metal3",
+      "justanotherchiselmod:metal4",
+      "justanotherchiselmod:metal5",
+      "justanotherchiselmod:metal6",
+      "justanotherchiselmod:metal7",
+      "justanotherchiselmod:metal8",
+      "justanotherchiselmod:metal9"
+    ]
+  },
+  "factory_block_place": {
+    "subtitle": "sound.justanotherchiselmod.metal_sound",
+    "sounds": [
+      "justanotherchiselmod:metal",
+      "justanotherchiselmod:metal1",
+      "justanotherchiselmod:metal2",
+      "justanotherchiselmod:metal3",
+      "justanotherchiselmod:metal4",
+      "justanotherchiselmod:metal5",
+      "justanotherchiselmod:metal6",
+      "justanotherchiselmod:metal7",
+      "justanotherchiselmod:metal8",
+      "justanotherchiselmod:metal9"
+    ]
+  },
+  "factory_block_hit": {
+    "subtitle": "sound.justanotherchiselmod.metal_sound",
+    "sounds": [
+      "justanotherchiselmod:metal",
+      "justanotherchiselmod:metal1",
+      "justanotherchiselmod:metal2",
+      "justanotherchiselmod:metal3",
+      "justanotherchiselmod:metal4",
+      "justanotherchiselmod:metal5",
+      "justanotherchiselmod:metal6",
+      "justanotherchiselmod:metal7",
+      "justanotherchiselmod:metal8",
+      "justanotherchiselmod:metal9"
+    ]
+  },
+  "factory_block_fall": {
+    "subtitle": "sound.justanotherchiselmod.metal_sound",
+    "sounds": [
+      "justanotherchiselmod:metal"
+    ]
+  }
+}

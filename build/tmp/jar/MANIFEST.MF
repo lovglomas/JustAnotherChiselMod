@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: justanotherchiselmod
+Specification-Vendor: justanotherchiselmodsareus
+Specification-Version: 1
+Implementation-Title: JACM
+Implementation-Version: 0.0.7
+Implementation-Vendor: justanotherchiselmodsareus
+Implementation-Timestamp: 2023-11-12T22:10:50-0300
+

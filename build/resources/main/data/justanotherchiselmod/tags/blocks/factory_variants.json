@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "justanotherchiselmod:factory",
+    "justanotherchiselmod:factory_box",
+    "justanotherchiselmod:factory_circuit",
+    "justanotherchiselmod:factory_column",
+    "justanotherchiselmod:factory_gold_plate",
+    "justanotherchiselmod:factory_gold_plating",
+    "justanotherchiselmod:factory_grinder",
+    "justanotherchiselmod:factory_ohazard",
+    "justanotherchiselmod:factory_yhazard",
+    "justanotherchiselmod:factory_platex",
+    "justanotherchiselmod:factory_plating",
+    "justanotherchiselmod:factory_rust",
+    "justanotherchiselmod:factory_rust_2",
+    "justanotherchiselmod:factory_rust_plate",
+    "justanotherchiselmod:factory_wireframe",
+    "justanotherchiselmod:factory_wireframe_white",
+    "justanotherchiselmod:factory_wireframe_blue",
+    "justanotherchiselmod:factory_frame_blue",
+    "justanotherchiselmod:factory_ice",
+    "justanotherchiselmod:factory_gold_symbol",
+    "justanotherchiselmod:factory_tile_mosaic",
+    "justanotherchiselmod:factory_tilered",
+    "justanotherchiselmod:factory_vent"
+  ]
+}

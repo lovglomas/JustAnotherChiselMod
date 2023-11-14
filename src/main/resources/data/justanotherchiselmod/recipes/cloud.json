@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " S ",
+    "S S",
+    " S "
+  ],
+  "key": {
+    "S": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "justanotherchiselmod:cloud",
+    "count": 32
+  }
+}

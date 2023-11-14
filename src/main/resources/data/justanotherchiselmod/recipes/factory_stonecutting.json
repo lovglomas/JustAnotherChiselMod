@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"tag": "justanotherchiselmod:factory_variants"
+	},
+	"result": "justanotherchiselmod:factory",
+	"count": 1
+}

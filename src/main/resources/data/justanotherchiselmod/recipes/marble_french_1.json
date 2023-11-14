@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "justanotherchiselmod:marble"
+  },
+  "result": "justanotherchiselmod:marble_french_1",
+  "count": 1
+}

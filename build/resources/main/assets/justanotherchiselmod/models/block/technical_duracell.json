@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/cube_column",
+	"textures": {
+		"up": "justanotherchiselmod:block/technical/new/megacell-top",
+		"down": "justanotherchiselmod:block/technical/new/megacell-bottom",
+		"side": "justanotherchiselmod:block/technical/new/megacell-side"
+	}
+}

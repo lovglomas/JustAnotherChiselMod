@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "justanotherchiselmod:dark_limestone_ore_placed",
+  "step": "underground_decoration"
+}

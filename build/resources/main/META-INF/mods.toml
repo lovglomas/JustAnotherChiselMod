@@ -1,0 +1,16 @@
+
+modLoader="javafml"
+loaderVersion="[43,)"
+license="Patente Pendiente"
+
+[[mods]]
+
+modId="justanotherchiselmod"
+version="${file.jarVersion}"
+displayName="Just Another Chisel Mod"
+
+logoFile="banner.png"
+credits="Gracias a todos los desarrolladores de contenido"
+authors="lovglomas (este port); creado originalmente por AUTOMATIC_MAIDEN, portado a 1.7.2 por asie, luego mantenido por Pokefenn y Cricket. Actualmente es mantenido por tterrag, Drullkus y minecreatr."
+description='''J.A.C.M = Just Another Chisel Mod... no se donde escuche eso; en fin: es un simple port de chisel 2 de la 1.7.10'''
+

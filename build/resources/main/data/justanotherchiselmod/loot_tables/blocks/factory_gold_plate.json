@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:block",
+	"pools": [{
+			"rolls": 1,
+			"entries": [{
+					"type": "minecraft:item",
+					"name": "justanotherchiselmod:factory_gold_plate"
+				}],
+	"conditions": [{
+			"condition": "minecraft:survives_explosion"
+        }]
+		}]
+}

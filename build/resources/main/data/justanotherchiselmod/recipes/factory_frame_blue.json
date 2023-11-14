@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "justanotherchiselmod:factory"
+	},
+	"result": "justanotherchiselmod:factory_frame_blue",
+	"count": 1
+}

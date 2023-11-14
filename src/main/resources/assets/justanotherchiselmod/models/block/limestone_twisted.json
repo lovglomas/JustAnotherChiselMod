@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "justanotherchiselmod:block/limestone/twisted-top",
+    "side": "justanotherchiselmod:block/limestone/twisted-side"
+  }
+}

@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cube_column",
+	"textures": {
+		"end": "justanotherchiselmod:block/laboratory/smallsteel-top",
+		"side": "justanotherchiselmod:block/laboratory/smallsteel-side"
+	}
+}

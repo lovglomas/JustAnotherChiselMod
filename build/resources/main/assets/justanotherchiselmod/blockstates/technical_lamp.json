@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "justanotherchiselmod:block/technical_lamp"
+    },
+    "lit=true": {
+      "model": "justanotherchiselmod:block/technical_lamp_off"
+    }
+  }
+}

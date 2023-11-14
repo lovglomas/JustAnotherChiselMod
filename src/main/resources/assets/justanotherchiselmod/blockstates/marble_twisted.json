@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "justanotherchiselmod:block/marble_twisted_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "justanotherchiselmod:block/marble_twisted"
+    },
+    "axis=z": {
+      "model": "justanotherchiselmod:block/marble_twisted_horizontal",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+	"type": "minecraft:stonecutting",
+	"ingredient": {
+		"item": "justanotherchiselmod:technical_scaffold"
+	},
+	"result": "justanotherchiselmod:technical_wires",
+	"count": 1
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "justanotherchiselmod:dark_limestone"
+  },
+  "result": "justanotherchiselmod:dark_limestone_light_creep",
+  "count": 1
+}
